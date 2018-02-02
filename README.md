@@ -1,8 +1,8 @@
 # CSS in JS
 
-*Slides:* https://speakerdeck.com/zehfernandes/css-in-js
+__Slides:__ https://speakerdeck.com/zehfernandes/css-in-js
 
-### Usage
+### Run
 
 ```
 npm i 
